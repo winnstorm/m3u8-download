@@ -245,4 +245,4 @@ When contributing to this project:
 
 ## License
 
-This project should include appropriate licensing information based on your requirements.
+GNU v3.0
