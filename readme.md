@@ -242,7 +242,3 @@ When contributing to this project:
 3. Update documentation
 4. Add unit tests
 5. Test thoroughly before submitting
-
-## License
-
-GNU v3.0
